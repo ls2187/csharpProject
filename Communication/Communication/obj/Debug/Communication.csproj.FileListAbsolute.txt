@@ -1,0 +1,17 @@
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\bin\Debug\Communication.exe.config
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\bin\Debug\Communication.exe
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\bin\Debug\Communication.pdb
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\Client.g.cs
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\MainWindow.g.cs
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\Server.g.cs
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\App.g.cs
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\Communication_MarkupCompile.cache
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\Communication_MarkupCompile.lref
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\Client.baml
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\MainWindow.baml
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\Server.baml
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\Communication.g.resources
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\Communication.Properties.Resources.resources
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\Communication.csproj.GenerateResource.Cache
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\Communication.exe
+c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\Communication.pdb
