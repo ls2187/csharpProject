@@ -15,3 +15,6 @@ c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Commun
 c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\Communication.csproj.GenerateResource.Cache
 c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\Communication.exe
 c:\users\cimcs_server\documents\visual studio 2015\Projects\Communication\Communication\obj\Debug\Communication.pdb
+C:\Users\CIMCS_Server\Desktop\csharpProject\Communication\Communication\bin\Debug\Communication.exe.config
+C:\Users\CIMCS_Server\Desktop\csharpProject\Communication\Communication\obj\Debug\Communication.exe
+C:\Users\CIMCS_Server\Desktop\csharpProject\Communication\Communication\obj\Debug\Communication.pdb
